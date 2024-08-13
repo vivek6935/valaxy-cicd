@@ -24,8 +24,6 @@ environment {
                  echo "----------- unit test Complted ----------"
             }
         }
-
-<<<<<<< HEAD
     stage("Jar Publish") {
         steps {
             script {
@@ -51,9 +49,6 @@ environment {
         }   
     }
 
-
-=======
->>>>>>> 83467e987511c4c9a0b09dbe994886bf409714f8
 }
 }
 
